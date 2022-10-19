@@ -1,5 +1,5 @@
 <h1>FRONT-END ANGULAR</h1>
-<h2>Prueba Tecnica - Sii Group <h2>
+<h2>Renderizado de datos en componente de tabla con consumo de API Rest<h2>
 # MyAppSiigroup
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
